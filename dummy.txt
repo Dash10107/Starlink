@@ -18,3 +18,4 @@ feat: add contact form with validation
 chore: set up deployment pipeline with Vercel
 fix: adjust meta tags for SEO optimization
 feat: integrate analytics tracking
+refactor: clean up unused components
