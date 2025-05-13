@@ -12,3 +12,4 @@ feat: implement user authentication flow
 fix: address login redirect loop
 feat: add user profile page with editable fields
 refactor: modularize CSS into separate files
+feat: implement dark mode toggle
