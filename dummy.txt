@@ -1,3 +1,4 @@
 feat: initialize project with V0-Starlink template
 chore: configure Tailwind CSS and PostCSS
 feat: implement responsive navbar with dropdowns
+feat: add hero section with dynamic background
