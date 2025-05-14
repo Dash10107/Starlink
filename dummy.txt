@@ -1,1 +1,2 @@
 feat: initialize project with V0-Starlink template
+chore: configure Tailwind CSS and PostCSS
