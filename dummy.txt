@@ -6,3 +6,4 @@ fix: correct layout issues on mobile devices
 feat: integrate Starlink API for real-time data
 refactor: optimize API calls for performance
 feat: add interactive satellite tracking map
+fix: resolve CORS issues with API requests
