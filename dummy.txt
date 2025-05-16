@@ -10,3 +10,4 @@ fix: resolve CORS issues with API requests
 chore: update README with project overview
 feat: implement user authentication flow
 fix: address login redirect loop
+feat: add user profile page with editable fields
