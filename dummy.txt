@@ -15,3 +15,4 @@ refactor: modularize CSS into separate files
 feat: implement dark mode toggle
 fix: correct color contrast in dark mode
 feat: add contact form with validation
+chore: set up deployment pipeline with Vercel
