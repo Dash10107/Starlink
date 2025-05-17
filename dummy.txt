@@ -1,0 +1,1 @@
+feat: initialize project with V0-Starlink template
