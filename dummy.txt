@@ -21,3 +21,4 @@ feat: integrate analytics tracking
 refactor: clean up unused components
 feat: add testimonials section with carousel
 fix: resolve image loading issues on Safari
+chore: update dependencies to latest versions
