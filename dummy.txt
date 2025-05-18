@@ -20,3 +20,4 @@ fix: adjust meta tags for SEO optimization
 feat: integrate analytics tracking
 refactor: clean up unused components
 feat: add testimonials section with carousel
+fix: resolve image loading issues on Safari
