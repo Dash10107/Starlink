@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "The Starlink Revolution",
   description: "Global internet through the power of satellite constellations",
-    generator: 'v0.dev'
+    generator: 'Dash10107'
 }
 
 export default function RootLayout({
